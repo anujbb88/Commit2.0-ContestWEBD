@@ -35,20 +35,20 @@
     overflow: hidden;
 }
 ::-webkit-scrollbar {
-    width: 12px; /* Set the width of the scrollbar */
+    width: 15px; /* Set the width of the scrollbar */
 }
 
 ::-webkit-scrollbar-track {
-    background: #333; /* Set the track (background) color */
+    background: #a83b51; /* Set the track (background) color */
 }
 
 ::-webkit-scrollbar-thumb {
     background: #555; /* Set the thumb (slider) color */
-    border-radius: 10px; /* Optional: rounded corners for the thumb */
+    border-radius: 15px; /* Optional: rounded corners for the thumb */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #888; /* Change the thumb color on hover */
+    background: #a83b51; /* Change the thumb color on hover */
 }
 .width{
     width: 400px;
